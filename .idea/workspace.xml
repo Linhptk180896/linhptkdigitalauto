@@ -1,7 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf24a07c-24e7-4dcf-a8de-61cfaef28e03" name="Default Changelist" comment="" />
+    <list default="true" id="cf24a07c-24e7-4dcf-a8de-61cfaef28e03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/1564c30ef6db44fb3cb085c528ff9bb63b5b3e3c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ea5d531a1ed728669416d1c4d79e309a7180766" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/536b729831ac47ef280a4b5e0fd4e91c360be977" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/8844bb9f89cbf7e85273188921feb83bd956e96e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/986b4fb532073e30937939482291658260154503" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a840fce087bc310f007380d3702634362e6128f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a84ce607623c00f3fe6ced929b26bbea7870c013" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f11e94c743a7a44ad212f33fa5d383b08481d177" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/AndvancedHw/AdvancedFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Linh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Ly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_AmDuong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_ChanLe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_DoiValueKoBien3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_DoiValuebien3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_GiaiPhuongTrinh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_NamNhuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_TimMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Trang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/VuongAnh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/Buoi_2_String_Trang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/ConNguoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/HocSinh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/Nhanvien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/V_A_Mang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/V_A_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B4/ConNguoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi2/Trang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi2/VuongAnh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi2/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi4/Bai1_basic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi4/Bai3_basic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi_2_Mang_Trang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/MainAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Lý.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Animals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Chick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/MainAnimals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/MainCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/MainEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Dongvat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Ga.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Meo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Study.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Theu/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Theu/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Theu/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Theu/Hen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Bai2_advance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Bai2_basic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Chicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai1_Employee/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai1_Employee/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Cho.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/DongVat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Ga$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Ga$LoaiGa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Ga.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai3_Hinhhoc/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/BaiTap2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/Study.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/baitap2/Theu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/baitap2406/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/javafortester/hw_lesson2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/javafortester/hw_lesson2_linh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/pTest/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/pTest/TinhLaiNganHang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/practiceJava2_Hai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/practiceJavaMang_Hai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/DemoJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/out/production/DemoJava/OOP/Theu/export_24062022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/src/OOP/Theu/export_24062022.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/trang/oop/Buoi4_1_basic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/trang/oop/Buoi4_1_basic_main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AndvancedHw/AdvancedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/ExamMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e770a708388d51f8824e690df4a21239c5892e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6157e823d2e15f595dd4e048711e73d397955ff2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6157e823d2e15f595dd4e048711e73d397955ff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64466528178f0f56200d023d6661afec523bf202" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/3486c5ffd2419549429c5f37e2c99e67bfb81c86" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6962a8f2185c049c69395efe9688047c4962b37d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a380e20a5664449c38cb32e55b2d16461c8d648c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f30da8fa4825821ae04479b8b949b6c69f8c6a72" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f30da8fa4825821ae04479b8b949b6c69f8c6a72" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Chick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Chick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/MainAnimals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/MainAnimals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/MainCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/MainCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/MainEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/MainEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/JavaOop/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/JavaOop/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/qe_degital_demo" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,88 +132,104 @@
     <session id="-514496155">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
-          <entry key="project.open.time.10" value="5" />
-          <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.closed" value="29" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.open.time.9" value="7" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="83" />
+          <entry key="class" value="16" />
+          <entry key="java" value="117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="83" />
+          <entry key="CLASS" value="16" />
+          <entry key="JAVA" value="117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="163" />
-          <entry key="java" value="17846" />
+          <entry key="dummy" value="170" />
+          <entry key="java" value="20699" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17846" />
-          <entry key="PLAIN_TEXT" value="163" />
+          <entry key="JAVA" value="20699" />
+          <entry key="PLAIN_TEXT" value="170" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-              <folding>
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/MainAccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="802">
-              <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Exam/Human.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="258">
+                  <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+                  <folding>
+                    <element signature="e#219#220#0" expanded="true" />
+                    <element signature="e#251#252#0" expanded="true" />
+                    <element signature="e#301#302#0" expanded="true" />
+                    <element signature="e#343#344#0" expanded="true" />
+                    <element signature="e#378#379#0" expanded="true" />
+                    <element signature="e#409#410#0" expanded="true" />
+                    <element signature="e#497#498#0" expanded="true" />
+                    <element signature="e#530#531#0" expanded="true" />
+                    <element signature="e#559#560#0" expanded="true" />
+                    <element signature="e#603#604#0" expanded="true" />
+                    <element signature="e#639#640#0" expanded="true" />
+                    <element signature="e#677#678#0" expanded="true" />
+                    <element signature="e#711#712#0" expanded="true" />
+                    <element signature="e#765#766#0" expanded="true" />
+                    <element signature="e#811#812#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Exam/Student.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Exam/ExamMain.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,15 +244,12 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/javafortester/topic01_for.java" />
-        <option value="$PROJECT_DIR$/src/javafortester/topic01_for_demo2.java" />
-        <option value="$PROJECT_DIR$/src/javafortester/topic01_for_demo3.java" />
-        <option value="$PROJECT_DIR$/src/javafortester/topic01_for_demo5.java" />
         <option value="$PROJECT_DIR$/src/javafortester/topic01_for_demo4.java" />
         <option value="$PROJECT_DIR$/src/javafortester/topic01_for_demo6.java" />
         <option value="$PROJECT_DIR$/src/javafortester/HW01.java" />
@@ -163,13 +295,20 @@
         <option value="$PROJECT_DIR$/src/ExcelHomeWork/Account.java" />
         <option value="$PROJECT_DIR$/src/ExcelHomeWork/MainAccount.java" />
         <option value="$PROJECT_DIR$/src/ExcelHomeWork/Employee.java" />
+        <option value="$PROJECT_DIR$/src/AndvancedHw/AndvancedFor.java" />
+        <option value="$PROJECT_DIR$/src/qe_degital_demo/src/OOP/BaiTap/Theu/Employee.java" />
+        <option value="$PROJECT_DIR$/src/AndvancedHw/AdvancedFor.java" />
+        <option value="$PROJECT_DIR$/src/Exam/Exam.java" />
+        <option value="$PROJECT_DIR$/src/Exam/Human.java" />
+        <option value="$PROJECT_DIR$/src/Exam/Student.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1933" />
-    <option name="height" value="1038" />
+    <option name="x" value="2025" />
+    <option name="y" value="37" />
+    <option name="width" value="1751" />
+    <option name="height" value="882" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -249,36 +388,11 @@
             <path>
               <item name="java-for-tester" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-for-tester" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-for-tester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-for-tester" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-for-tester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-for-tester" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-for-tester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-for-tester" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ExcelHomeWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-for-tester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-for-tester" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-for-tester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-for-tester" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaOop" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -289,7 +403,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1656330118946" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1657184044202" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/qe_degital_demo" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -312,13 +426,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hw_lesson1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaOop.Main" />
+  <component name="RunManager" selected="Application.AdvancedFor">
+    <configuration name="AdvancedFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AndvancedHw.AdvancedFor" />
       <module name="java-for-tester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExcelHomeWork.*" />
+          <option name="PATTERN" value="AndvancedHw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,19 +493,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MainEmployee" />
       <item itemvalue="Application.MainAnimals" />
       <item itemvalue="Application.MainCircle" />
       <item itemvalue="Application.hw_lesson1" />
+      <item itemvalue="Application.AdvancedFor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvancedFor" />
         <item itemvalue="Application.hw_lesson1" />
         <item itemvalue="Application.MainCircle" />
         <item itemvalue="Application.MainAnimals" />
         <item itemvalue="Application.MainEmployee" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -409,9 +523,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1546" height="830" extended-state="0" />
+    <frame x="2025" y="37" width="1751" height="882" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16554509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15966883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -420,15 +534,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32808024" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994233" weight="0.28837878" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39927185" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994233" weight="0.22525108" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988024" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32998565" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27139038" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005767" side_tool="true" weight="0.21279213" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.326062" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3257485" />
       <window_info anchor="bottom" id="SonarLint" order="11" weight="0.22632226" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3296433" />
       <window_info anchor="bottom" id="Analyze Dataflow to" order="13" weight="0.3296433" />
@@ -476,82 +590,37 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qe_degital_demo/src/trang/oop/Buoi4_1_basic.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qe_degital_demo/src/trang/oop/Buoi4_1_basic.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/qe_degital_demo/src/trang/oop/Buoi4_1_basic.java</url>
+          <line>48</line>
+          <properties class="trang.oop.Buoi4_1_basic" method="setLastname">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="40" column="3" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="40" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasic/topic01_for_demo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasic/topic01_for_demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasic/topic01_for_demo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasic/topic01_for_demo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasic/Hw08QuadraticEquation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" column="24" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasic/topic01_for_demo6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasic/Hw06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javafortester/human.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaBasic/Hw04PositiveNegative.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -594,16 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasic/hw_lesson2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/util/Date.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-991">
@@ -618,70 +677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/MainAnimals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Chick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaOop/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Animals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,52 +695,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasic/hw_lesson1.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBasic/Hw08QuadraticEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="168" column="20" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
+        <state relative-caret-position="544">
+          <caret line="32" column="24" selection-start-line="7" selection-start-column="7" selection-end-line="44" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AndvancedHw/AndvancedFor.java" />
     <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/MainEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -752,6 +720,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/MainAccount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -759,12 +734,211 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/MainAnimals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasic/hw_lesson1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="168" column="20" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasic/hw_lesson2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="165" column="36" selection-start-line="165" selection-start-column="36" selection-end-line="165" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/BaiTap/Theu/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/Phong/Bai2_DongVat/Ga.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/Phong/Bai2_DongVat/DongVat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AndvancedHw/AdvancedFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/trang/oop/Buoi4_1_basic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/trang/oop/Buoi4_1_basic_main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/Phong/Bai2_DongVat/Cho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/Buoi2/VuongAnh.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2218" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Animals.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Cat.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Chick.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Circle.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Employee.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/Phong/Bai1_Employee/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/Phong/Bai1_Employee/Employee.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Main.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Chicken.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Cat.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Bai2_basic.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Bai2_advance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/MainEmployee.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/MainCircle.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/MainAnimals.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Animals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Chick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exam/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exam/ExamMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exam/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
           </folding>
         </state>
       </provider>

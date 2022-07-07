@@ -1,0 +1,17 @@
+
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(¤¿ÕC8¼áŠ¢š0
+\
+java:S18547"?Remove this useless assignment to local variable "debitAmount".(åÈÏ8¤‘Œ¢š0
+G
+java:S1068	"*Remove this unused "credit" private field.(¨¹Öõ8 êèšš0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¼Íä8«Ä·™š0
+H
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8«Ä·™š0
+M
+java:S14817"0Remove this unused "debitAmount" local variable.(åÈÏ8¤‘Œ¢š0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ÑÕ¿§ıÿÿÿÿ8³Ÿ‹š0
+K
+java:S1068
+")Remove this unused "debit" private field.(Ûµùÿÿÿÿ8Ş§êšš0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ş èÏùÿÿÿÿ8Ë›ƒœš0
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(¤¿ÕC8Ğ¤‰œš0
