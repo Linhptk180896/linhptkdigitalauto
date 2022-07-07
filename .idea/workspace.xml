@@ -1,126 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf24a07c-24e7-4dcf-a8de-61cfaef28e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/1564c30ef6db44fb3cb085c528ff9bb63b5b3e3c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ea5d531a1ed728669416d1c4d79e309a7180766" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/536b729831ac47ef280a4b5e0fd4e91c360be977" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/8844bb9f89cbf7e85273188921feb83bd956e96e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/986b4fb532073e30937939482291658260154503" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a840fce087bc310f007380d3702634362e6128f4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a84ce607623c00f3fe6ced929b26bbea7870c013" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f11e94c743a7a44ad212f33fa5d383b08481d177" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/AndvancedHw/AdvancedFor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Linh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Ly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_AmDuong.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_ChanLe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_DoiValueKoBien3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_DoiValuebien3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_GiaiPhuongTrinh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_NamNhuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Theu_TimMax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/Trang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B1/VuongAnh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/Buoi_2_String_Trang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/ConNguoi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/HocSinh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/Nhanvien.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/V_A_Mang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/V_A_String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B3/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B4/ConNguoi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/B4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi2/Trang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi2/VuongAnh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi2/demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi4/Bai1_basic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi4/Bai3_basic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Buoi_2_Mang_Trang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/MainAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/Lý.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Animals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Chick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/MainAnimals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/MainCircle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Linh/MainEmployee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Dongvat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Ga.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Meo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/Study.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Ly/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Theu/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Theu/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Theu/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Theu/Hen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Bai2_advance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Bai2_basic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Chicken.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/BaiTap/Trang/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai1_Employee/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai1_Employee/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Cho.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/DongVat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Ga$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Ga$LoaiGa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Ga.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai2_DongVat/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Phong/Bai3_Hinhhoc/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/BaiTap2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/OOP/Theu/Study.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/baitap2/Theu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/baitap2406/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/javafortester/hw_lesson2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/javafortester/hw_lesson2_linh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/pTest/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/pTest/TinhLaiNganHang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/practiceJava2_Hai.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/practiceJavaMang_Hai.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/DemoJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/out/production/DemoJava/OOP/Theu/export_24062022.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/qe_degital_demo/src/OOP/Theu/export_24062022.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/trang/oop/Buoi4_1_basic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-for-tester/trang/oop/Buoi4_1_basic_main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AndvancedHw/AdvancedFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam/ExamMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e770a708388d51f8824e690df4a21239c5892e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6157e823d2e15f595dd4e048711e73d397955ff2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6157e823d2e15f595dd4e048711e73d397955ff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64466528178f0f56200d023d6661afec523bf202" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/3486c5ffd2419549429c5f37e2c99e67bfb81c86" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6962a8f2185c049c69395efe9688047c4962b37d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a380e20a5664449c38cb32e55b2d16461c8d648c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f30da8fa4825821ae04479b8b949b6c69f8c6a72" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f30da8fa4825821ae04479b8b949b6c69f8c6a72" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Animals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Chick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Chick.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/MainAnimals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/MainAnimals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/MainCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/MainCircle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/Employee/MainEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/ExcelHomeWork/MainEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-for-tester/JavaOop/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-for-tester/JavaOop/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_degital_demo" beforeDir="false" />
-    </list>
+    <list default="true" id="cf24a07c-24e7-4dcf-a8de-61cfaef28e03" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -392,6 +273,12 @@
             </path>
             <path>
               <item name="java-for-tester" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-for-tester" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaOop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-for-tester" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -403,7 +290,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1657184044202" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1657184902090" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/qe_degital_demo" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -525,7 +412,7 @@
   <component name="ToolWindowManager">
     <frame x="2025" y="37" width="1751" height="882" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15966883" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15966883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -539,7 +426,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27139038" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.48128343" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005767" side_tool="true" weight="0.21279213" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3257485" />
