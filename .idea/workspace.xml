@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf24a07c-24e7-4dcf-a8de-61cfaef28e03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/Human.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf24a07c-24e7-4dcf-a8de-61cfaef28e03" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -294,7 +291,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1657187165143" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1657188724561" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/qe_degital_demo" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -415,7 +412,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2025" y="37" width="1751" height="882" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15966883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -644,33 +640,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2754">
           <caret line="165" column="36" selection-start-line="165" selection-start-column="36" selection-end-line="165" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/BaiTap/Theu/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/Phong/Bai2_DongVat/Ga.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/Phong/Bai2_DongVat/DongVat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/BaiTap/Theu/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/Phong/Bai2_DongVat/Ga.java" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/Phong/Bai2_DongVat/DongVat.java" />
     <entry file="file://$PROJECT_DIR$/src/AndvancedHw/AdvancedFor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-289">
@@ -681,83 +656,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/trang/oop/Buoi4_1_basic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/trang/oop/Buoi4_1_basic_main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/Phong/Bai2_DongVat/Cho.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/Buoi2/VuongAnh.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2218" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Animals.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Cat.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Chick.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Circle.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Employee.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/Phong/Bai1_Employee/Main.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/Phong/Bai1_Employee/Employee.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Main.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Chicken.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Cat.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Bai2_basic.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Bai2_advance.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/MainEmployee.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/MainCircle.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/MainAnimals.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/trang/oop/Buoi4_1_basic.java" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/trang/oop/Buoi4_1_basic_main.java" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/src/OOP/Phong/Bai2_DongVat/Cho.java" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/Buoi2/VuongAnh.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Animals.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Cat.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Chick.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Circle.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/Employee.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/Phong/Bai1_Employee/Main.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/Phong/Bai1_Employee/Employee.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Main.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Chicken.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Cat.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Bai2_basic.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Trang/Bai2_advance.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/MainEmployee.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/MainCircle.class" />
+    <entry file="file://$PROJECT_DIR$/src/qe_degital_demo/out/production/DemoJava/OOP/BaiTap/Linh/MainAnimals.class" />
     <entry file="file://$PROJECT_DIR$/src/ExcelHomeWork/Animals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
