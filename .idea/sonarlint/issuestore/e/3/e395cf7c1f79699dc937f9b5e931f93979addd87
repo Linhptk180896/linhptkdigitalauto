@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïíóÂ
+o
+java:S2095	"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ıÍÁ¬ûÿÿÿÿ8î¤ì0
+Z
+java:S1854	"8Remove this useless assignment to local variable "file".(ıÍÁ¬ûÿÿÿÿ8î¤ì0
+c
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(ıÍÁ¬ûÿÿÿÿ8î¤ì0
+K
+java:S1481	")Remove this unused "file" local variable.(ıÍÁ¬ûÿÿÿÿ8î¤ì0

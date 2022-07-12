@@ -1,16 +1,16 @@
 
-œ
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜¼ÞÆýÿÿÿÿ
-A
-java:S1068"+Remove this unused "percent" private field.(¬°­µ
-V	java:S1254"<This block of commented-out lines of code should be removed.(¬žÚùÿÿÿÿ
-S	java:S106?"9Replace this use of System.out or System.err by a logger.(¥îôîûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.( ùÕËýÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(Ò­àüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¯½§Æýÿÿÿÿ
-Q
-java:S1117A";Rename "percent" which hides the field declared at line 11.(çŽâÀ
 S	java:S106"9Replace this use of System.out or System.err by a logger.(©ïý»ýÿÿÿÿ
 E
 java:S1068"*Remove this unused "payday" private field.(ºñ¼™ûÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜¼ÞÆýÿÿÿÿ
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¼Íä
+V	java:S125"<This block of commented-out lines of code should be removed.(Ò­àüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯½§Æýÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(¬žÚùÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(¥îôîûÿÿÿÿ
+Q
+java:S1117A";Rename "percent" which hides the field declared at line 11.(çŽâÀ
+A
+java:S1068"+Remove this unused "percent" private field.(¬°­µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ùÕËýÿÿÿÿ
